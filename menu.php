@@ -13,6 +13,7 @@
             <li class="active"><a href="/">Inicio</a></li>
             <li><a href="persona_nuevo_formulario.php">Nuevo</a></li>
             <li><a href="javascript:void(0);" id="a-contacto">Contacto</a></li>
+            <li><a href="javascript:void(0);" id="a-asincrono">Asincrono</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
