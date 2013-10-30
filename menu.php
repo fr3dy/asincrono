@@ -12,7 +12,7 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="/">Inicio</a></li>
             <li><a href="persona_nuevo_formulario.php">Nuevo</a></li>
-            <li><a href="#contact" id="a-contacto">Contacto</a></li>
+            <li><a href="javascript:void(0);" id="a-contacto">Contacto</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
