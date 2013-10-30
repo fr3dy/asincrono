@@ -37,17 +37,9 @@
 		}
 ?>
 	</table>
-
-
-<script type="text/javascript">
-
-alert("Hola JS");
-</script>
-
-
 <?php
 
-  include_once("pie");
+  include_once("pie.php");
 ?>
 
 
