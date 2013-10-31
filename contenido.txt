@@ -1,0 +1,5 @@
+<h3>Hola Asincrono</h3>
+<p>Este contenido fue cargado de forma asincrona. Utiliza <strong>formatos</strong> y otros elementos</p>
+<div class="alert alert-info">
+	Puede contener cualquier tipo de elemento.
+</div
