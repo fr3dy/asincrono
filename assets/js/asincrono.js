@@ -1,1 +1,6 @@
-alert("Ultimo cambio, 18:14 horas");
+$(
+	function () 
+	{
+		alert("Hola mundo desde un DOM completamente cargado.");
+	}
+);
